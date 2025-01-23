@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">-Student<br>-Future Java Developer</p>
+<p align="left">-Student<br>-Future Software Developer</p>
 
 ###
 
